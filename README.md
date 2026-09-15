@@ -3,8 +3,7 @@
 # Content Performance Analysis: The Humans of BRACU
 
 ## Tools Used
-- Python (Pandas)
-- Colab
+- Python (Pandas,Colab)
 - Microsoft Excel
 - Data Visualization Libraries
 
